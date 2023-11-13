@@ -1,6 +1,6 @@
 # Project Name
 
-Brief description of your project.
+FilesOrganiserGPT
 
 ## Table of Contents
 
@@ -14,30 +14,43 @@ Brief description of your project.
 
 ## Getting Started
 
-Provide information on how to get your project up and running.
+Download the folder and open it locally in your VS Code.
 
 ### Prerequisites
 
-List any software, libraries, or tools that users need to have installed.
+Have Python installed, have a ready and working OpenAI-API key.
 
 ### Installation
 
-Step-by-step instructions on how to install and set up your project.
+Create a .env file at the root directory, then insert OPENAI_API_KEY=XXX
+
+Run the following commands:
+1) pip install -r requirements.txt
+2) python folderorganiser.py
 
 ## Usage
 
-Explain how users can use your project. Include examples and screenshots if necessary.
+The main code to configure are shown in the image.
+![image](https://github.com/Ang-Wei-Liang/FilesOrganiserGPT/assets/113972542/a6e3003d-d8f0-41fb-ba01-4feb357e4778)
+
+Breakdown for 1 of the options:
+https://github.com/Ang-Wei-Liang/FilesOrganiserGPT/assets/113972542/17dffea6-93fc-4cbc-a8ed-dd93d97d508f
+
+For all 4 options: https://youtu.be/s7fsYXQaXQM
+
 
 ## Contributing
 
 Explain how others can contribute to your project. Include guidelines for pull requests, issues, and code of conduct.
+Well for this portion I don't realy mind people improving on this, idk maybe credit me a bit I guess...
+Some ideas can a web app but tbh this thrives on simplicity.
 
 ## License
 
-This project is licensed under the [Your License] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under Ang-Wei-Liang. Lol.
 
 ## Acknowledgments
 
-Mention any contributors, libraries, or tools you want to acknowledge.
+Mention any contributors, libraries, or tools you want to acknowledge. I acknowledge ChatGPT. Its too OP, you have to try it if you havent.
 
 
