@@ -1,6 +1,5 @@
-# Project Name
+# FilesOrganiserGPT
 
-FilesOrganiserGPT
 
 ## Table of Contents
 
@@ -44,7 +43,7 @@ https://github.com/Ang-Wei-Liang/FilesOrganiserGPT/assets/113972542/f141cfe9-c4b
 
 For all 4 options: 
 
-https://youtu.be/s7fsYXQaXQM
+[https://youtu.be/s7fsYXQaXQM](https://youtu.be/R9aZlBYxuH4)
 
 
 ## Contributing
