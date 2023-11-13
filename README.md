@@ -34,7 +34,7 @@ The main code to configure are shown in the image.
 ![image](https://github.com/Ang-Wei-Liang/FilesOrganiserGPT/assets/113972542/a6e3003d-d8f0-41fb-ba01-4feb357e4778)
 
 Breakdown for 1 of the options:
-https://github.com/Ang-Wei-Liang/FilesOrganiserGPT/assets/113972542/17dffea6-93fc-4cbc-a8ed-dd93d97d508f
+[https://github.com/Ang-Wei-Liang/FilesOrganiserGPT/assets/113972542/17dffea6-93fc-4cbc-a8ed-dd93d97d508f](https://github-production-user-asset-6210df.s3.amazonaws.com/113972542/282542316-17dffea6-93fc-4cbc-a8ed-dd93d97d508f.mp4)
 
 For all 4 options: https://youtu.be/s7fsYXQaXQM
 
