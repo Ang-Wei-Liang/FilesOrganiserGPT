@@ -39,7 +39,7 @@ The main code to configure are shown in the image.
 
 Breakdown for 1 of the options:
 
-https://github.com/Ang-Wei-Liang/FilesOrganiserGPT/assets/113972542/965941d6-ee91-463c-8cb6-55cccb7c5838
+https://github.com/Ang-Wei-Liang/FilesOrganiserGPT/assets/113972542/f141cfe9-c4b0-4f02-ad7e-7e9eb2499a94
 
 
 For all 4 options: 
