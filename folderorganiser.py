@@ -8,7 +8,7 @@ from openai import OpenAI
 
 from dotenv import load_dotenv
 
-# Load environment variables from .env file
+# Load environment variables from .env file, you do not need to set the API key in this file
 load_dotenv()
 
 # Indicate your target folders here
