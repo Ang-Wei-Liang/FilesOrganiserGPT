@@ -31,13 +31,20 @@ Run the following commands:
 ## Usage
 
 The main code to configure are shown in the image.
+
+
 ![image](https://github.com/Ang-Wei-Liang/FilesOrganiserGPT/assets/113972542/a6e3003d-d8f0-41fb-ba01-4feb357e4778)
 
+
+
 Breakdown for 1 of the options:
-![image](https://github.com/Ang-Wei-Liang/FilesOrganiserGPT/assets/113972542/c829dd67-2c1c-4ee9-a90e-f5fe44784ba4)
+
+https://github.com/Ang-Wei-Liang/FilesOrganiserGPT/assets/113972542/965941d6-ee91-463c-8cb6-55cccb7c5838
 
 
-For all 4 options: https://youtu.be/s7fsYXQaXQM
+For all 4 options: 
+
+https://youtu.be/s7fsYXQaXQM
 
 
 ## Contributing
